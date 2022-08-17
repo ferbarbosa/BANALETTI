@@ -1,0 +1,42 @@
+{
+  "en": {
+    "translation": {
+      "Full Stack": "Full Stack Developer",
+      "Presentation": "Hello! my name is Fernando Banaletti, i'm a Full Stack developer with focus in Typescript, React and Node.js.",
+      "About": "About",
+      "About-text": "You already know about me",
+      "Projects": "Projects",
+      "Contact": "Contact",
+      "Contact name": "Name",
+      "Contact email": "Email",
+      "Contact message": "Message",
+      "Contact send": "Send",
+      "Menu home": "Home",
+      "Menu about": "About",
+      "Menu projects": "Projects",
+      "Menu contact": "Contact",
+      "Wellcome": "Hello...",
+      "Hokkaido": "Hokkaido"
+    }
+  },
+  "pt": {
+    "translation": {
+      "Full Stack": "Desenvolvedor Full Stack",
+      "Presentation": "Olá! Meu nome é Fernando Banaletti, Sou um desenvolvedor Full Stack com foco em Typescript, React e Node.js.",
+      "About": "Sobre",
+      "About-text": "Já sabe sobre mim",
+      "Projects": "Projetos",
+      "Contact": "Contato",
+      "Contact name":"Nome",
+      "Contact email":"Email",
+      "Contact message":"Mensagem",
+      "Contact send":"Enviar",
+      "Menu home": "Inicio",
+      "Menu about": "Sobre",
+      "Menu projects": "Projetos",
+      "Menu contact": "Contato",
+      "Wellcome": "Olá...",
+      "Hokkaido":"Hokkaido é um projeto de uma loja online, com design minimalista e funcional, que tem como objetivo a venda de produtos de diversas categorias, como: camisetas, calças, sapatos, etc."
+    }
+  }
+}

@@ -1,0 +1,4 @@
+<TextField id="filled-basic" label={t('Contact name')} InputProps={{ disableUnderline: true }} variant="filled" sx={{ backgroundColor: '#fafbf6', width: '100%', borderRadius: '5px' }} />
+                            <TextField id="filled-basic" label={t('Contact email')} variant="filled" InputProps={{ disableUnderline: true }} sx={{ backgroundColor: '#fafbf6', width: '100%', marginTop: '10px', borderRadius: '5px' }} />
+                            <TextField id="filled-basic" label={t('Contact message')} variant="filled" InputProps={{ disableUnderline: true }} multiline rows={4} sx={{ backgroundColor: '#fafbf6', width: '100%', marginTop: '10px', borderRadius: '5px' }} />
+                            <button type="submit">{t('Contact send')}</button>
